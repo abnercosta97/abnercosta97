@@ -1,4 +1,11 @@
 ### Hi there 👋
+## Sou o Abner, e estou aprendendo a programar!
+
+<div align="center">
+   
+   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=abnercosta97&theme=dark&show_icons=true&hide_border=true&count_private=true"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnercosta97&theme=dark&show_icons=true&hide_border=true&layout=compact"/>
+</div>
 
 <!--
 **abnercosta97/abnercosta97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
