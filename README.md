@@ -9,4 +9,4 @@
 
 ---
    
-Sou um estudante dedicado de Desenvolvimento de Software Multiplataforma (DSM) na Fatec Jacareí, com foco inicial em Front-End. Estou constantemente buscando novas habilidades e conhecimentos para me tornar um desenvolvedor Full-Stack completo e altamente qualificado. Com uma paixão pela tecnologia e pelo aprendizado contínuo, estou comprometido em me desenvolver profissionalmente e fazer contribuições significativas na indústria de desenvolvimento de software.
+Sou um estudante dedicado de Desenvolvimento de Software Multiplataforma (DSM) na Fatec Jacareí, com foco inicial em Front-End. Estou constantemente buscando novas habilidades e conhecimentos para me tornar um desenvolvedor Full-Stack completo e altamente qualificado. Com uma paixão pela tecnologia e pelo aprendizado contínuo, estou comprometido em me desenvolver profissionalmente e fazer contribuições significativas na indústria de desenvolvimento de software. Atualmente fazendo uma transição de carreira.
