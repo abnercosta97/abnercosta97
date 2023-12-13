@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá, pessoal! 👋
 ## Sou o Abner, e estou aprendendo a programar!
 
 <div align="center">
@@ -9,4 +9,54 @@
 
 ---
    
-Sou um estudante dedicado de Desenvolvimento de Software Multiplataforma (DSM) na Fatec Jacareí, com foco inicial em Front-End. Estou constantemente buscando novas habilidades e conhecimentos para me tornar um desenvolvedor Full-Stack completo e altamente qualificado. Com uma paixão pela tecnologia e pelo aprendizado contínuo, estou comprometido em me desenvolver profissionalmente e fazer contribuições significativas na indústria de desenvolvimento de software. Atualmente fazendo uma transição de carreira.
+Sou um estudante dedicado de Desenvolvimento de Software Multiplataforma (DSM) na Fatec Jacareí. Estou constantemente buscando novas habilidades e conhecimentos para me tornar um desenvolvedor Full-Stack completo e altamente qualificado. Com uma paixão pela tecnologia e pelo aprendizado contínuo, estou comprometido em me desenvolver profissionalmente e fazer contribuições significativas na indústria de desenvolvimento de software. Atualmente fazendo uma transição de carreira.
+
+### 🚀 Habilidades e Ferramentas
+
+- **Linguagens de Programação:** JavaScript, HTML, CSS, TypeScript, SQL, C#, Python.
+- **Bibliotecas e Frameworks:** React, Bootstrap.
+- **Ferramentas de Desenvolvimento:** VS Code, Git, GitHub, Linux.
+
+### 📚 Atualmente Estudando
+
+- Aprofundando conhecimentos em React.
+- Explorando conceitos de Desenvolvimento Full-Stack.
+- Praticando boas práticas de versionamento e colaboração com Git/GitHub.
+
+### 💼 Objetivos Profissionais
+
+Estou comprometido em me desenvolver profissionalmente e fazer contribuições significativas na indústria de desenvolvimento de software. Atualmente, estou em uma transição de carreira, buscando oportunidades de estágio ou colaboração em projetos desafiadores.
+
+### 🤝 Conecte-se Comigo
+
+- [LinkedIn](https://www.linkedin.com/in/abnercosta97)
+
+
+### 📫 Contato
+
+- E-mail: abner.costa3@fatec.sp.gov.br
+
+Agradeço por visitar meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato para trocarmos experiências ou colaborarmos em projetos interessantes.
+
+### 🚀 Principais Repositórios
+
+Aqui estão alguns dos meus principais projetos:
+
+1. **[Bike 4 You](https://github.com/DevsDomain/Bike4you):** Aplicação Web para aluguéis de bike Peer-to-Peer, API do segundo semestre (contribui no back-end).
+
+2. **[Expert Treinamentos](https://github.com/Our-time-Fatec/Expert-Treinamentos):** Aplicação web que indique todos os processos e artefatos da metodologia ágil (Srum), a fim de que todos os seus colaboradores entendam e realizem o Scrum corretamente e de maneira padronizada (contribui no front-end).
+
+3. **[Loteria](https://github.com/abnercosta97/ativadade-praticaReact):** Aplicação Web para exibir últimos resultados das Loterias Caixas.
+
+4. **[Servidor IBGE](https://github.com/abnercosta97/servidorIBGE):** Servidor para buscar informções dos Estados (UF).
+
+5. **[Servidor Pilha - Fila](https://github.com/abnercosta97/servidorPilha):** Servidor para manter dados de pacientes cadastrados. Os dadosdevem ser organizados comoumapilha (LIFO –Last In,First Out)oufila (FIFO –First In, First Out) edevem ser salvos em um único arquivo texto.
+
+6. **[Servidor Filmes e Carros](https://github.com/abnercosta97/provaC-TP):** Servidor para salvar e exibir dados de carros e de filmes, e salvar em um arquivo de texto.
+
+7. **[Cadastro de Cores em React](https://github.com/abnercosta97/prov3-A-DWII):** Projeto front-end desenvolvido em React TS para cadastrar cores no formato RGB.
+
+Esses são apenas alguns exemplos, e você pode personalizar conforme necessário. Certifique-se de adicionar links diretos para os repositórios e fornecer informações que destaquem as contribuições e realizações em cada projeto.
+
+### 🔍 [Ver todos os Repositórios](https://github.com/abnercosta97?tab=repositories)
+
