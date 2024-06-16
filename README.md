@@ -44,19 +44,21 @@ Aqui estão alguns dos meus principais projetos:
 
 1. **[D-Tracker](https://github.com/DevsDomain/D-Traker)** Ferramenta de gerenciamento exclusivamente para o gestor de projetos. API do terceiro semestre.
 
-3. **[Bike 4 You](https://github.com/DevsDomain/Bike4you):** Aplicação Web para aluguéis de bike Peer-to-Peer, API do segundo semestre (contribui no back-end).
+3. **[Bike 4 You](https://github.com/DevsDomain/Bike4you)** Aplicação Web para aluguéis de bike Peer-to-Peer, API do segundo semestre (contribui no back-end).
 
-4. **[Expert Treinamentos](https://github.com/Our-time-Fatec/Expert-Treinamentos):** Aplicação web que indique todos os processos e artefatos da metodologia ágil (Scrum), a fim de que todos os seus colaboradores entendam e realizem o Scrum corretamente e de maneira padronizada (contribui no front-end).
+4. **[IBGE Localidades](https://github.com/abnercosta97/ibge-localidades-app)** Aplicativo React TS que lista regiões, estados e mesorregiões do Brasil utilizando a API de localidades do IBGE.
 
-5. **[Loteria](https://github.com/abnercosta97/ativadade-praticaReact):** Aplicação Web para exibir últimos resultados das Loterias Caixas.
+5. **[Expert Treinamentos](https://github.com/Our-time-Fatec/Expert-Treinamentos):** Aplicação web que indique todos os processos e artefatos da metodologia ágil (Scrum), a fim de que todos os seus colaboradores entendam e realizem o Scrum corretamente e de maneira padronizada (contribui no front-end).
 
-6. **[Servidor IBGE](https://github.com/abnercosta97/servidorIBGE):** Servidor para buscar informções dos Estados (UF).
+6. **[Loteria](https://github.com/abnercosta97/ativadade-praticaReact):** Aplicação Web para exibir últimos resultados das Loterias Caixas.
 
-7. **[Servidor Pilha - Fila](https://github.com/abnercosta97/servidorPilha):** Servidor para manter dados de pacientes cadastrados. Os dadosdevem ser organizados comoumapilha (LIFO –Last In,First Out)oufila (FIFO –First In, First Out) edevem ser salvos em um único arquivo texto.
+7. **[Servidor IBGE](https://github.com/abnercosta97/servidorIBGE):** Servidor para buscar informções dos Estados (UF).
 
-8. **[Servidor Filmes e Carros](https://github.com/abnercosta97/provaC-TP):** Servidor para salvar e exibir dados de carros e de filmes, e salvar em um arquivo de texto.
+8. **[Servidor Pilha - Fila](https://github.com/abnercosta97/servidorPilha):** Servidor para manter dados de pacientes cadastrados. Os dadosdevem ser organizados comoumapilha (LIFO –Last In,First Out)oufila (FIFO –First In, First Out) edevem ser salvos em um único arquivo texto.
 
-9. **[Cadastro de Cores em React](https://github.com/abnercosta97/prov3-A-DWII):** Projeto front-end desenvolvido em React TS para cadastrar cores no formato RGB.
+9. **[Servidor Filmes e Carros](https://github.com/abnercosta97/provaC-TP):** Servidor para salvar e exibir dados de carros e de filmes, e salvar em um arquivo de texto.
+
+10. **[Cadastro de Cores em React](https://github.com/abnercosta97/prov3-A-DWII):** Projeto front-end desenvolvido em React TS para cadastrar cores no formato RGB.
 
 Esses são apenas alguns exemplos, e você pode personalizar conforme necessário. Certifique-se de adicionar links diretos para os repositórios e fornecer informações que destaquem as contribuições e realizações em cada projeto.
 
